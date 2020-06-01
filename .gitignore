@@ -1,0 +1,4 @@
+*.rknn
+*.prototext
+*.caffemodel
+*.pb
