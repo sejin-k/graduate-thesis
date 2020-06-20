@@ -1,4 +1,12 @@
+# Deep learning model
 *.rknn
 *.prototext
 *.caffemodel
 *.pb
+
+# Compressed file
+*.zip
+
+# Picture
+*.png
+*.jpg
